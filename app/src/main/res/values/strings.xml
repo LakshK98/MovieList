@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="search">Search</string>
+    <string name="title_activity_expanded_view">ExpandedView</string>
+    <string name="title_activity_swipe_view">SwipeView</string>
+    <string name="favorites">Favorites</string>
+    <string name="your_list">Your Lists</string>
+    <string name="add_to_list">Add to List</string>
+    <string name="add_to_fav">Add to Favorites</string>
+    <string name="overview">Overview</string>
+    <string name="cast">Cast</string>
+    <string name="new_list">New List</string>
+    <string name="tv_show">TV Show</string>
+    <string name="movie">Movie</string>
+    <string name="first_air_date">First Air Date:</string>
+    <string name="create_new_list">Create New List</string>
+    <string name="popular_tv_shows">Popular TV Shows</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="synopsis">Synopsis:</string>
+    <string name="director">Director:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="genre">Genre:</string>
+    <string name="movielist">MovieList</string>
+</resources>
